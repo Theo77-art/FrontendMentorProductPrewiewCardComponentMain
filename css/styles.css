@@ -104,6 +104,8 @@ button {
   border-radius: 10px;
   text-decoration: none;
   margin-top: 20px;
+  font-family: 'Montserrat', serif;
+  font-weight: 700;
 }
 button:hover {
   background-color: hsl(212, 21%, 14%);
