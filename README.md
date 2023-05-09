@@ -41,8 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://resplendent-beijinho-9341ed.netlify.app/](https://resplendent-beijinho-9341ed.netlify.app/)
 
 ### Built with
 
@@ -89,8 +88,7 @@ I don't have much to say about this CSS other than it's highly effective in mana
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Theo77-art](https://www.frontendmentor.io/profile/Theo77-art)
+- Twitter - [@theo_tatsuki](https://twitter.com/theo_tatsuki)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
